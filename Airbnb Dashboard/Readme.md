@@ -4,6 +4,13 @@
 
 This project features an interactive Tableau dashboard designed to analyze Airbnb listings. The dashboard provides key insights into pricing, availability, locations, and host activities, helping users make data-driven decisions.
 
+
+### 📥 Dataset Download
+Due to GitHub's file size limitations, you can download the dataset from the link below:
+
+https://docs.google.com/spreadsheets/d/1FPcD6-0ZfyexyH3AMpGrvhjVjJz2y-M7/edit?usp=drive_link&ouid=101723056301481674057&rtpof=true&sd=true
+
+Dashboard Preiew
 ![tableau](https://github.com/user-attachments/assets/d0b42e43-bb7f-4465-b7d1-52b12189f8ef)
 
 
